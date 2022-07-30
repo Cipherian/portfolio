@@ -1,3 +1,2 @@
-# Modify this portfolio
+# Daniel's deployed portfolio: app.netlify.com/sites/celebrated-babka-a0cc08/overview
 
-Make it your own! 
